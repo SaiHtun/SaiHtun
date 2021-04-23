@@ -18,8 +18,9 @@
 
 &nbsp;&nbsp;<img  align="right" src="./ninja-shiba.jpg" width="250"/>
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name is Sai and i go by Danny, I'm a self-taught developer based in SF Bay Area 🌉 , I love solving the problems from the perspective of design and code, with expertise in modern JavaScript stack. I love to create a simple, clean, accessible design, scalable and matainable codebase for my projects. Enjoy prototyping and architecting Frontend to Backend solution.  And I started writing blog for the love of technology, practicing writing and English since English is my 4th language, so please excuse my horrible grammer. 🥶 
-
+<p style="font-size: 1.4em">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name is Sai and i go by Danny, I'm a self-taught developer based in SF Bay Area 🌉 , I love solving the problems from the perspective of design and code, with expertise in modern JavaScript stack. I love to create a simple, clean, accessible design, scalable and matainable codebase for my projects. Enjoy prototyping and architecting Frontend to Backend solution.  And I started writing blog for the love of technology, practicing writing and English since English is my 4th language, so please excuse my horrible grammer. 🥶 
+</p>
 
 
 </br></br>
