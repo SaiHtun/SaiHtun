@@ -16,11 +16,15 @@
 
 
 
-&nbsp;&nbsp;<img  style="float: right;" src="./ninja-shiba.jpg" width="200"/>
+&nbsp;&nbsp;<img  align="right" src="./ninja-shiba.jpg" width="250"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Sai and i go by Danny, I'm a self-taught developer based in SF Bay Area 🌉 , I love solving the problems from the perspective of design and code, with expertise in modern JavaScript stack. I love to create a simple, clean, accessible design, scalable and matainable codebase for my projects.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size: 1.2em;"> My name is Sai and i go by Danny, I'm a self-taught developer based in SF Bay Area 🌉 , I love solving the problems from the perspective of design and code, with expertise in modern JavaScript stack. I love to create a simple, clean, accessible design, scalable and matainable codebase for my projects.
+</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm not only coding but also started writing blog for the love of technology, practicing writing and English since English is my 4th language, please excuse my horrible grammer. 🥶
+<span style="font-size: 1.2em;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm not only coding but also started writing blog for the love of technology, practicing writing and English since English is my 4th language, please excuse my horrible grammer. 🥶 
+</span>
+
 
 </br></br>
 
