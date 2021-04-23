@@ -1,5 +1,5 @@
 ### Ohaiyo, my comrades ~ <img src="https://media.tenor.com/images/02427a361839c4b3c41dab89c2bf12a6/tenor.gif" width="50"/>
-[![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeF24QURKTfBON31ms7_jp7g0DoDfpQNd5kA&usqp=CAU )](https://saihtun.xyz)
+[![Header](https://www.cybertalk.org/wp-content/uploads/2020/11/shutterstock_1703075554.jpg )](https://saihtun.xyz)
 </br></br></br>
 
 <p align='center'>
@@ -13,7 +13,14 @@
 <img  src="https://cdn.svgporn.com/logos/postgresql.svg" width="50"/>&nbsp;&nbsp;
 </p></br></br>
 
-    I'm a self-taught developer based in SF Bay Area 🌉 , I love solving the problems from the perspective of design and code, with expertise in modern JavaScript stack. I love to create a simple, clean, accessible design, scalable and matainable codebase for my projects. I'm not only coding but also started writing blog for the love of technology, practicing writing and English since English is my 4th language, please excuse my horrible grammer. 🥶
+
+
+
+&nbsp;&nbsp;<img  style="float: right;" src="./ninja-shiba.jpg" width="200"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Sai and i go by Danny, I'm a self-taught developer based in SF Bay Area 🌉 , I love solving the problems from the perspective of design and code, with expertise in modern JavaScript stack. I love to create a simple, clean, accessible design, scalable and matainable codebase for my projects.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm not only coding but also started writing blog for the love of technology, practicing writing and English since English is my 4th language, please excuse my horrible grammer. 🥶
 
 </br></br>
 
@@ -24,7 +31,7 @@
 
 ## 🗽 &nbsp;&nbsp;  My Github stats
 </br></br>
-[![Sai Htun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiHtun&show_icons=true&theme=radical)](https://github.com/SaiHtun/github-readme-stats)
+[![Sai Htun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiHtun&show_icons=true&theme=radical)](https://github.com/SaiHtun/github-readme-stats)&nbsp;&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiHtun&layout=compact&theme=radical)](https://github.com/SaiHtun/github-readme-stats)
 </br></br>
@@ -32,8 +39,14 @@
 </br></br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiHtun&repo=outstagramm&theme=radical)](https://github.com/SaiHtun/outstagramm)
+&nbsp;&nbsp;
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiHtun&repo=telemartmyanmar&theme=radical)](https://github.com/SaiHtun/telemartmyanmar)
+&nbsp;&nbsp;
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiHtun&repo=sps-business-group&theme=radical)](https://github.com/SaiHtun/sps-business-group)
+&nbsp;&nbsp;
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiHtun&repo=next-portfolio&theme=radical)](https://github.com/SaiHtun/next-portfolio)
 </br></br>
 
