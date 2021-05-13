@@ -28,7 +28,7 @@
 
 ## ✍🏼  &nbsp;&nbsp; Please check out my blog here.
         
-* [Virtualization to Containerization](https://saihtun.xyz/blogs/ckmkyo6jk44xl0b74i7gf9zp5)</br></br></br>
+* [Virtualization to Containerization](https://www.saihtun.xyz/blog/Virtualization-to-Containerization)</br></br></br>
 
 ## 🗽 &nbsp;&nbsp;  My Github stats
 </br></br>
